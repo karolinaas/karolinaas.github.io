@@ -1,4 +1,4 @@
-# karolinaas.github.io
+# Rezavá
 ## Protokoly
 [BPC-ESM](https://rezava.cz/BPC-ESM-Protokoly-2024/)
 
